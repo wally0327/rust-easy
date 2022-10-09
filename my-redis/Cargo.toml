@@ -1,0 +1,11 @@
+[package]
+name = "my-redis"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.20.1", features = ["full"] } # 不同应用对包的需求不同可以按需选择特性，可以加快rust项目的编译时间
+mini-redis = "0.4.1"
+bytes = "1.2.1"
