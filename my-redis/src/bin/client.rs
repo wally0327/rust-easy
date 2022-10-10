@@ -1,7 +1,5 @@
 use bytes::Bytes;
 use mini_redis::client;
-use std::thread;
-use std::time::Duration;
 use tokio::sync::mpsc;
 use tokio::sync::oneshot;
 
