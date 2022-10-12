@@ -12,3 +12,6 @@ Tokio 库中的IO操作和std库使用方式一样，只不过采用的是异步
 * `AsyncReadExt::read` provides an async method for reading data into a buffer, returning the number of bytes read.
 * `AsyncReadExt::read_to_end` reads all bytes from the stream until EOF.
 
+## tokio::select!
+
+`select` 支持在多个异步计算任务中任意一个任务的结束和返回
