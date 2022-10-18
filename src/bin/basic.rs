@@ -6,5 +6,6 @@ fn main() {
 
     let s3 = String::from("123");
     let s4 = s3;
+
     // println!("{}", s3); 不可用
 }

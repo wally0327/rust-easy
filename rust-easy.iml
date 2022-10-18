@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/my-redis/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/simple-web-server/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithm/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithm/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/simple-web-server/target" />
       <excludeFolder url="file://$MODULE_DIR$/my-redis/target" />
