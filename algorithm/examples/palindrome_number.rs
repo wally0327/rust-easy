@@ -1,5 +1,6 @@
 impl Solution {
     // 构建反向数字
+    // 回文数
     pub fn is_palindrome(x: i32) -> bool {
         let res = if x < 0 {
             false
