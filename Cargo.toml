@@ -11,7 +11,9 @@ members = [
     "async-io",
     "my-redis",
     "simple-web-server",
-    "crypto"
+    "crypto",
+    "tests",
+    "privacy"
 ]
 
 [dependencies]
